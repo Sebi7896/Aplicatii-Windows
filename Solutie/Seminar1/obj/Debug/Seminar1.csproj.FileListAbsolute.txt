@@ -1,0 +1,7 @@
+D:\AplicatiiWindowsFacultate\Solutie\Seminar1\bin\Debug\Seminar1.exe.config
+D:\AplicatiiWindowsFacultate\Solutie\Seminar1\bin\Debug\Seminar1.exe
+D:\AplicatiiWindowsFacultate\Solutie\Seminar1\bin\Debug\Seminar1.pdb
+D:\AplicatiiWindowsFacultate\Solutie\Seminar1\obj\Debug\Seminar1.csproj.AssemblyReference.cache
+D:\AplicatiiWindowsFacultate\Solutie\Seminar1\obj\Debug\Seminar1.csproj.CoreCompileInputs.cache
+D:\AplicatiiWindowsFacultate\Solutie\Seminar1\obj\Debug\Seminar1.exe
+D:\AplicatiiWindowsFacultate\Solutie\Seminar1\obj\Debug\Seminar1.pdb
