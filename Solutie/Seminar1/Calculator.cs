@@ -103,7 +103,7 @@ namespace Seminar1.Host
         {
             this.nume = new StringBuilder();
             this.nume.Insert(0, nume);
-            this.nume.Insert(++this.nume.Length, " Muieee");
+            this.nume.Insert(++this.nume.Length, " mmm");
             this.salariul = salariul;
         }
         public override String ToString()
