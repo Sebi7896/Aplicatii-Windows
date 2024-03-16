@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\Aplicatii-Windows\Tema1\Tema1\obj\Debug\Tema1.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\Aplicatii-Windows\Tema1\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\Aplicatii-Windows\Tema1\Tema1\bin\Debug\Tema1.exe.config
+C:\Users\felix\source\repos\Aplicatii-Windows\Tema1\Tema1\bin\Debug\Tema1.exe
+C:\Users\felix\source\repos\Aplicatii-Windows\Tema1\Tema1\bin\Debug\Tema1.pdb
+C:\Users\felix\source\repos\Aplicatii-Windows\Tema1\Tema1\obj\Debug\Tema1.exe
+C:\Users\felix\source\repos\Aplicatii-Windows\Tema1\Tema1\obj\Debug\Tema1.pdb
